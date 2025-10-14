@@ -111,7 +111,7 @@ num_str = "3.14"
 num_float = float(num_str)
 
   
-''' Okay that's all for the today's lesson see you. ''''
+''' Okay that's all for the today's lesson see you. '''
 
 '''
 Here's a challenge for you
