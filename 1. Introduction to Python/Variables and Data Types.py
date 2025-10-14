@@ -112,6 +112,7 @@ num_float = float(num_str)
 
   
 ''' Okay that's all for the today's lesson see you. ''''
+
 '''
 Here's a challenge for you
   · Create a variable for your name, age, and whether you’re a student.
